@@ -1,0 +1,102 @@
+[
+  {
+    "name": "自选小料",
+    "value": [
+      {
+        "specName": "椰果"
+      },
+      {
+        "specName": "红豆"
+      },
+      {
+        "specName": "奥利奥碎"
+      }
+    ],
+    "child": [
+      {
+        "value": "珍珠",
+        "label": "珍珠"
+      },
+      {
+        "value": "椰果",
+        "label": "椰果"
+      },
+      {
+        "value": "红豆",
+        "label": "红豆"
+      },
+      {
+        "value": "奥利奥碎",
+        "label": "奥利奥碎"
+      }
+    ]
+  },
+  {
+    "name": "温度",
+    "value": [
+      {
+        "specName": "热"
+      },
+      {
+        "specName": "常温"
+      },
+      {
+        "specName": "多冰"
+      }
+    ],
+    "child": [
+      {
+        "value": "热",
+        "label": "热"
+      },
+      {
+        "value": "常温",
+        "label": "常温"
+      },
+      {
+        "value": "少冰",
+        "label": "少冰"
+      },
+      {
+        "value": "多冰",
+        "label": "多冰"
+      }
+    ]
+  },
+  {
+    "name": "甜度",
+    "value": [
+      {
+        "specName": "正常糖"
+      },
+      {
+        "specName": "七分糖"
+      },
+      {
+        "specName": "三分糖"
+      }
+    ],
+    "child": [
+      {
+        "value": "正常糖",
+        "label": "正常糖"
+      },
+      {
+        "value": "七分糖",
+        "label": "七分糖"
+      },
+      {
+        "value": "半糖",
+        "label": "半糖"
+      },
+      {
+        "value": "三分糖",
+        "label": "三分糖"
+      },
+      {
+        "value": "无糖",
+        "label": "无糖"
+      }
+    ]
+  }
+]
